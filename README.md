@@ -1,1 +1,1 @@
-# simple-python-cicd-ml
+# simple-ml-project-cicd
